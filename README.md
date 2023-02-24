@@ -4,7 +4,7 @@
 
 This is me:
 
-- 🔭 I’m currently working as a freelancer
-- 🌱 I’m currently learning Machine Learning and Mobile Dev in Flutter
-- 📫 How to reach me: <a href="https://www.vic.resellro.com/#contact"> here </a>
+- 🔭 I’m currently building my startup, Affistas
+- 🌱 I’m currently learning Machine Learning
+- 📫 How to reach me: <a href="http://calendly.com/vicpitic/15-minutes-meeting"> here </a>
 - ⚡ Fun fact: I love basketball 🏀
