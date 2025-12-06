@@ -4,7 +4,7 @@
 
 This is me:
 
-- 🔭 I’m currently building my startup, Affistash
-- 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me: <a href="http://calendly.com/vicpitic/15-minutes-meeting"> here </a>
+- 🔭 Founder of Affistash (acq. by FMTC) and PodKit (acq. by Listener.com)
+- 🌱 I’m currently studying AI in uni.
+- 📫 How to reach me: <a href="mailto:vic@developmently.org"> here </a>
 - ⚡ Fun fact: I love basketball 🏀
